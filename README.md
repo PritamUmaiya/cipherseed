@@ -45,7 +45,7 @@ Then open **http://localhost:3000** in your browser.
 
 CipherSeed takes four inputs:
 - **App Name** — e.g. “Google” or “GitHub”  
-- **Username** *(optional)*  
+- **Username / Email** *(optional)*  
 - **Master Password** — your main secret key  
 - **Secret Phrase** *(optional)*  
 
