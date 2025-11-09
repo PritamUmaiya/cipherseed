@@ -21,7 +21,7 @@ It creates strong, consistent passwords locally — using secure cryptographic h
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/PriamUmaiya/cipherseed.git
+git clone https://github.com/PritamUmaiya/cipherseed.git
 cd cipherseed
 ```
 
